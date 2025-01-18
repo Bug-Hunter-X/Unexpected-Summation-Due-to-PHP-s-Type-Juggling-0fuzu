@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in PHP: unexpected results from arithmetic operations due to PHP's loose typing. The `bug.php` file contains code that incorrectly sums an array containing both integers and a string representation of a number.  The `bugSolution.php` provides a corrected version with type checking.
